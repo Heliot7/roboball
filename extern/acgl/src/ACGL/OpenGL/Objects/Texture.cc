@@ -1,0 +1,8 @@
+////////////////////////////////////////////////////////////////////////////////
+// Copyright (c) 2011, Computer Graphics Group RWTH Aachen University         //
+// All rights reserved.                                                       //
+////////////////////////////////////////////////////////////////////////////////
+
+#include <ACGL/OpenGL/Objects/Texture.hh>
+
+using namespace ACGL::OpenGL;

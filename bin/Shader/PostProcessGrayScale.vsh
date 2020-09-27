@@ -1,0 +1,13 @@
+////////////////////////////////////////////////////////////////////////////////
+// Copyright (c) 2011, Computer Graphics Group RWTH Aachen University         //
+// All rights reserved.                                                       //
+////////////////////////////////////////////////////////////////////////////////
+
+#version 150
+
+in vec4 aPosition;
+
+void main()
+{
+    gl_Position = aPosition;
+}
